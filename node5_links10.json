@@ -1,18 +1,4 @@
 { 
- "nodes" : [ 
- 
-		{ "source" : "node1", "frequency" : 1}, 
-
-		{ "source" : "node2", "frequency" : 2}, 
-
-		{ "source" : "node3", "frequency" : 3}, 
-
-		{ "source" : "node4", "frequency" : 4}, 
-
-		{ "source" : "node5", "frequency" : 5}
-
- 
- ], 
 
  "arcs" : [ 
 
