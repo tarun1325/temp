@@ -1,5 +1,5 @@
 { 
- "nodes" : [ 
+ "nodes":[ 
  
 		{ "source" : "node1", "frequency" : 1}, 
 
@@ -9,12 +9,12 @@
 
 		{ "source" : "node4", "frequency" : 4}, 
 
-		{ "source" : "node5", "frequency" : 5}, 
+		{ "source" : "node5", "frequency" : 5}
 
  
  ], 
 
- "arcs" : [ 
+ "arcs":[ 
 
 		{ "source" : "node2" , "target" : "node5", "frequency" : 1, "dependency" : 0  },
 		{ "source" : "node5" , "target" : "node5", "frequency" : 2, "dependency" : 0  },
@@ -25,7 +25,7 @@
 		{ "source" : "node4" , "target" : "node1", "frequency" : 2, "dependency" : 0  },
 		{ "source" : "node3" , "target" : "node1", "frequency" : 3, "dependency" : 0  },
 		{ "source" : "node2" , "target" : "node4", "frequency" : 4, "dependency" : 0  },
-		{ "source" : "node1" , "target" : "node5", "frequency" : 0, "dependency" : 0  },
+		{ "source" : "node1" , "target" : "node5", "frequency" : 0, "dependency" : 0  }
 
  ] 
 }
