@@ -49,7 +49,7 @@
 
 		{ "source" : "node24", "frequency" : 24}, 
 
-		{ "source" : "node25", "frequency" : 25}, 
+		{ "source" : "node25", "frequency" : 25}
 
  
  ], 
@@ -105,7 +105,7 @@
 		{ "source" : "node11" , "target" : "node16", "frequency" : 22, "dependency" : 0  },
 		{ "source" : "node16" , "target" : "node11", "frequency" : 23, "dependency" : 0  },
 		{ "source" : "node18" , "target" : "node13", "frequency" : 24, "dependency" : 0  },
-		{ "source" : "node19" , "target" : "node2", "frequency" : 0, "dependency" : 0  },
+		{ "source" : "node19" , "target" : "node2", "frequency" : 0, "dependency" : 0  }
 
  ] 
 }
