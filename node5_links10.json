@@ -1,7 +1,20 @@
 { 
+ "nodes" : [ 
+ 
+		{ "source" : "node1", "frequency" : 1}, 
 
+		{ "source" : "node2", "frequency" : 2}, 
 
- "arcs":[ 
+		{ "source" : "node3", "frequency" : 3}, 
+
+		{ "source" : "node4", "frequency" : 4}, 
+
+		{ "source" : "node5", "frequency" : 5}
+
+ 
+ ], 
+
+ "arcs" : [ 
 
 		{ "source" : "node2" , "target" : "node5", "frequency" : 1, "dependency" : 0  },
 		{ "source" : "node5" , "target" : "node5", "frequency" : 2, "dependency" : 0  },
