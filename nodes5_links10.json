@@ -14,7 +14,7 @@
  
  ], 
 
- "links" : [ 
+ "arcs" : [ 
 
 		{ "source" : "4" , "target" : "2" },
 		{ "source" : "4" , "target" : "2" },
