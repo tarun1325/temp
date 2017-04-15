@@ -199,7 +199,7 @@
 
 		{ "source" : "node99", "frequency" : 99}, 
 
-		{ "source" : "node100", "frequency" : 100}, 
+		{ "source" : "node100", "frequency" : 100}
 
  
  ], 
@@ -305,7 +305,7 @@
 		{ "source" : "node9" , "target" : "node84", "frequency" : 97, "dependency" : 0  },
 		{ "source" : "node62" , "target" : "node94", "frequency" : 98, "dependency" : 0  },
 		{ "source" : "node40" , "target" : "node4", "frequency" : 99, "dependency" : 0  },
-		{ "source" : "node88" , "target" : "node28", "frequency" : 0, "dependency" : 0  },
+		{ "source" : "node88" , "target" : "node28", "frequency" : 0, "dependency" : 0  }
 
  ] 
 }
