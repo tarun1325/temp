@@ -1,0 +1,1511 @@
+{ 
+ "nodes" : [ 
+ 
+		{ "source" : "node1", "frequency" : 1}, 
+
+		{ "source" : "node2", "frequency" : 2}, 
+
+		{ "source" : "node3", "frequency" : 3}, 
+
+		{ "source" : "node4", "frequency" : 4}, 
+
+		{ "source" : "node5", "frequency" : 5}, 
+
+		{ "source" : "node6", "frequency" : 6}, 
+
+		{ "source" : "node7", "frequency" : 7}, 
+
+		{ "source" : "node8", "frequency" : 8}, 
+
+		{ "source" : "node9", "frequency" : 9}, 
+
+		{ "source" : "node10", "frequency" : 10}, 
+
+		{ "source" : "node11", "frequency" : 11}, 
+
+		{ "source" : "node12", "frequency" : 12}, 
+
+		{ "source" : "node13", "frequency" : 13}, 
+
+		{ "source" : "node14", "frequency" : 14}, 
+
+		{ "source" : "node15", "frequency" : 15}, 
+
+		{ "source" : "node16", "frequency" : 16}, 
+
+		{ "source" : "node17", "frequency" : 17}, 
+
+		{ "source" : "node18", "frequency" : 18}, 
+
+		{ "source" : "node19", "frequency" : 19}, 
+
+		{ "source" : "node20", "frequency" : 20}, 
+
+		{ "source" : "node21", "frequency" : 21}, 
+
+		{ "source" : "node22", "frequency" : 22}, 
+
+		{ "source" : "node23", "frequency" : 23}, 
+
+		{ "source" : "node24", "frequency" : 24}, 
+
+		{ "source" : "node25", "frequency" : 25}, 
+
+		{ "source" : "node26", "frequency" : 26}, 
+
+		{ "source" : "node27", "frequency" : 27}, 
+
+		{ "source" : "node28", "frequency" : 28}, 
+
+		{ "source" : "node29", "frequency" : 29}, 
+
+		{ "source" : "node30", "frequency" : 30}, 
+
+		{ "source" : "node31", "frequency" : 31}, 
+
+		{ "source" : "node32", "frequency" : 32}, 
+
+		{ "source" : "node33", "frequency" : 33}, 
+
+		{ "source" : "node34", "frequency" : 34}, 
+
+		{ "source" : "node35", "frequency" : 35}, 
+
+		{ "source" : "node36", "frequency" : 36}, 
+
+		{ "source" : "node37", "frequency" : 37}, 
+
+		{ "source" : "node38", "frequency" : 38}, 
+
+		{ "source" : "node39", "frequency" : 39}, 
+
+		{ "source" : "node40", "frequency" : 40}, 
+
+		{ "source" : "node41", "frequency" : 41}, 
+
+		{ "source" : "node42", "frequency" : 42}, 
+
+		{ "source" : "node43", "frequency" : 43}, 
+
+		{ "source" : "node44", "frequency" : 44}, 
+
+		{ "source" : "node45", "frequency" : 45}, 
+
+		{ "source" : "node46", "frequency" : 46}, 
+
+		{ "source" : "node47", "frequency" : 47}, 
+
+		{ "source" : "node48", "frequency" : 48}, 
+
+		{ "source" : "node49", "frequency" : 49}, 
+
+		{ "source" : "node50", "frequency" : 50}, 
+
+		{ "source" : "node51", "frequency" : 51}, 
+
+		{ "source" : "node52", "frequency" : 52}, 
+
+		{ "source" : "node53", "frequency" : 53}, 
+
+		{ "source" : "node54", "frequency" : 54}, 
+
+		{ "source" : "node55", "frequency" : 55}, 
+
+		{ "source" : "node56", "frequency" : 56}, 
+
+		{ "source" : "node57", "frequency" : 57}, 
+
+		{ "source" : "node58", "frequency" : 58}, 
+
+		{ "source" : "node59", "frequency" : 59}, 
+
+		{ "source" : "node60", "frequency" : 60}, 
+
+		{ "source" : "node61", "frequency" : 61}, 
+
+		{ "source" : "node62", "frequency" : 62}, 
+
+		{ "source" : "node63", "frequency" : 63}, 
+
+		{ "source" : "node64", "frequency" : 64}, 
+
+		{ "source" : "node65", "frequency" : 65}, 
+
+		{ "source" : "node66", "frequency" : 66}, 
+
+		{ "source" : "node67", "frequency" : 67}, 
+
+		{ "source" : "node68", "frequency" : 68}, 
+
+		{ "source" : "node69", "frequency" : 69}, 
+
+		{ "source" : "node70", "frequency" : 70}, 
+
+		{ "source" : "node71", "frequency" : 71}, 
+
+		{ "source" : "node72", "frequency" : 72}, 
+
+		{ "source" : "node73", "frequency" : 73}, 
+
+		{ "source" : "node74", "frequency" : 74}, 
+
+		{ "source" : "node75", "frequency" : 75}, 
+
+		{ "source" : "node76", "frequency" : 76}, 
+
+		{ "source" : "node77", "frequency" : 77}, 
+
+		{ "source" : "node78", "frequency" : 78}, 
+
+		{ "source" : "node79", "frequency" : 79}, 
+
+		{ "source" : "node80", "frequency" : 80}, 
+
+		{ "source" : "node81", "frequency" : 81}, 
+
+		{ "source" : "node82", "frequency" : 82}, 
+
+		{ "source" : "node83", "frequency" : 83}, 
+
+		{ "source" : "node84", "frequency" : 84}, 
+
+		{ "source" : "node85", "frequency" : 85}, 
+
+		{ "source" : "node86", "frequency" : 86}, 
+
+		{ "source" : "node87", "frequency" : 87}, 
+
+		{ "source" : "node88", "frequency" : 88}, 
+
+		{ "source" : "node89", "frequency" : 89}, 
+
+		{ "source" : "node90", "frequency" : 90}, 
+
+		{ "source" : "node91", "frequency" : 91}, 
+
+		{ "source" : "node92", "frequency" : 92}, 
+
+		{ "source" : "node93", "frequency" : 93}, 
+
+		{ "source" : "node94", "frequency" : 94}, 
+
+		{ "source" : "node95", "frequency" : 95}, 
+
+		{ "source" : "node96", "frequency" : 96}, 
+
+		{ "source" : "node97", "frequency" : 97}, 
+
+		{ "source" : "node98", "frequency" : 98}, 
+
+		{ "source" : "node99", "frequency" : 99}, 
+
+		{ "source" : "node100", "frequency" : 100}, 
+
+		{ "source" : "node101", "frequency" : 101}, 
+
+		{ "source" : "node102", "frequency" : 102}, 
+
+		{ "source" : "node103", "frequency" : 103}, 
+
+		{ "source" : "node104", "frequency" : 104}, 
+
+		{ "source" : "node105", "frequency" : 105}, 
+
+		{ "source" : "node106", "frequency" : 106}, 
+
+		{ "source" : "node107", "frequency" : 107}, 
+
+		{ "source" : "node108", "frequency" : 108}, 
+
+		{ "source" : "node109", "frequency" : 109}, 
+
+		{ "source" : "node110", "frequency" : 110}, 
+
+		{ "source" : "node111", "frequency" : 111}, 
+
+		{ "source" : "node112", "frequency" : 112}, 
+
+		{ "source" : "node113", "frequency" : 113}, 
+
+		{ "source" : "node114", "frequency" : 114}, 
+
+		{ "source" : "node115", "frequency" : 115}, 
+
+		{ "source" : "node116", "frequency" : 116}, 
+
+		{ "source" : "node117", "frequency" : 117}, 
+
+		{ "source" : "node118", "frequency" : 118}, 
+
+		{ "source" : "node119", "frequency" : 119}, 
+
+		{ "source" : "node120", "frequency" : 120}, 
+
+		{ "source" : "node121", "frequency" : 121}, 
+
+		{ "source" : "node122", "frequency" : 122}, 
+
+		{ "source" : "node123", "frequency" : 123}, 
+
+		{ "source" : "node124", "frequency" : 124}, 
+
+		{ "source" : "node125", "frequency" : 125}, 
+
+		{ "source" : "node126", "frequency" : 126}, 
+
+		{ "source" : "node127", "frequency" : 127}, 
+
+		{ "source" : "node128", "frequency" : 128}, 
+
+		{ "source" : "node129", "frequency" : 129}, 
+
+		{ "source" : "node130", "frequency" : 130}, 
+
+		{ "source" : "node131", "frequency" : 131}, 
+
+		{ "source" : "node132", "frequency" : 132}, 
+
+		{ "source" : "node133", "frequency" : 133}, 
+
+		{ "source" : "node134", "frequency" : 134}, 
+
+		{ "source" : "node135", "frequency" : 135}, 
+
+		{ "source" : "node136", "frequency" : 136}, 
+
+		{ "source" : "node137", "frequency" : 137}, 
+
+		{ "source" : "node138", "frequency" : 138}, 
+
+		{ "source" : "node139", "frequency" : 139}, 
+
+		{ "source" : "node140", "frequency" : 140}, 
+
+		{ "source" : "node141", "frequency" : 141}, 
+
+		{ "source" : "node142", "frequency" : 142}, 
+
+		{ "source" : "node143", "frequency" : 143}, 
+
+		{ "source" : "node144", "frequency" : 144}, 
+
+		{ "source" : "node145", "frequency" : 145}, 
+
+		{ "source" : "node146", "frequency" : 146}, 
+
+		{ "source" : "node147", "frequency" : 147}, 
+
+		{ "source" : "node148", "frequency" : 148}, 
+
+		{ "source" : "node149", "frequency" : 149}, 
+
+		{ "source" : "node150", "frequency" : 150}, 
+
+		{ "source" : "node151", "frequency" : 151}, 
+
+		{ "source" : "node152", "frequency" : 152}, 
+
+		{ "source" : "node153", "frequency" : 153}, 
+
+		{ "source" : "node154", "frequency" : 154}, 
+
+		{ "source" : "node155", "frequency" : 155}, 
+
+		{ "source" : "node156", "frequency" : 156}, 
+
+		{ "source" : "node157", "frequency" : 157}, 
+
+		{ "source" : "node158", "frequency" : 158}, 
+
+		{ "source" : "node159", "frequency" : 159}, 
+
+		{ "source" : "node160", "frequency" : 160}, 
+
+		{ "source" : "node161", "frequency" : 161}, 
+
+		{ "source" : "node162", "frequency" : 162}, 
+
+		{ "source" : "node163", "frequency" : 163}, 
+
+		{ "source" : "node164", "frequency" : 164}, 
+
+		{ "source" : "node165", "frequency" : 165}, 
+
+		{ "source" : "node166", "frequency" : 166}, 
+
+		{ "source" : "node167", "frequency" : 167}, 
+
+		{ "source" : "node168", "frequency" : 168}, 
+
+		{ "source" : "node169", "frequency" : 169}, 
+
+		{ "source" : "node170", "frequency" : 170}, 
+
+		{ "source" : "node171", "frequency" : 171}, 
+
+		{ "source" : "node172", "frequency" : 172}, 
+
+		{ "source" : "node173", "frequency" : 173}, 
+
+		{ "source" : "node174", "frequency" : 174}, 
+
+		{ "source" : "node175", "frequency" : 175}, 
+
+		{ "source" : "node176", "frequency" : 176}, 
+
+		{ "source" : "node177", "frequency" : 177}, 
+
+		{ "source" : "node178", "frequency" : 178}, 
+
+		{ "source" : "node179", "frequency" : 179}, 
+
+		{ "source" : "node180", "frequency" : 180}, 
+
+		{ "source" : "node181", "frequency" : 181}, 
+
+		{ "source" : "node182", "frequency" : 182}, 
+
+		{ "source" : "node183", "frequency" : 183}, 
+
+		{ "source" : "node184", "frequency" : 184}, 
+
+		{ "source" : "node185", "frequency" : 185}, 
+
+		{ "source" : "node186", "frequency" : 186}, 
+
+		{ "source" : "node187", "frequency" : 187}, 
+
+		{ "source" : "node188", "frequency" : 188}, 
+
+		{ "source" : "node189", "frequency" : 189}, 
+
+		{ "source" : "node190", "frequency" : 190}, 
+
+		{ "source" : "node191", "frequency" : 191}, 
+
+		{ "source" : "node192", "frequency" : 192}, 
+
+		{ "source" : "node193", "frequency" : 193}, 
+
+		{ "source" : "node194", "frequency" : 194}, 
+
+		{ "source" : "node195", "frequency" : 195}, 
+
+		{ "source" : "node196", "frequency" : 196}, 
+
+		{ "source" : "node197", "frequency" : 197}, 
+
+		{ "source" : "node198", "frequency" : 198}, 
+
+		{ "source" : "node199", "frequency" : 199}, 
+
+		{ "source" : "node200", "frequency" : 200}, 
+
+		{ "source" : "node201", "frequency" : 201}, 
+
+		{ "source" : "node202", "frequency" : 202}, 
+
+		{ "source" : "node203", "frequency" : 203}, 
+
+		{ "source" : "node204", "frequency" : 204}, 
+
+		{ "source" : "node205", "frequency" : 205}, 
+
+		{ "source" : "node206", "frequency" : 206}, 
+
+		{ "source" : "node207", "frequency" : 207}, 
+
+		{ "source" : "node208", "frequency" : 208}, 
+
+		{ "source" : "node209", "frequency" : 209}, 
+
+		{ "source" : "node210", "frequency" : 210}, 
+
+		{ "source" : "node211", "frequency" : 211}, 
+
+		{ "source" : "node212", "frequency" : 212}, 
+
+		{ "source" : "node213", "frequency" : 213}, 
+
+		{ "source" : "node214", "frequency" : 214}, 
+
+		{ "source" : "node215", "frequency" : 215}, 
+
+		{ "source" : "node216", "frequency" : 216}, 
+
+		{ "source" : "node217", "frequency" : 217}, 
+
+		{ "source" : "node218", "frequency" : 218}, 
+
+		{ "source" : "node219", "frequency" : 219}, 
+
+		{ "source" : "node220", "frequency" : 220}, 
+
+		{ "source" : "node221", "frequency" : 221}, 
+
+		{ "source" : "node222", "frequency" : 222}, 
+
+		{ "source" : "node223", "frequency" : 223}, 
+
+		{ "source" : "node224", "frequency" : 224}, 
+
+		{ "source" : "node225", "frequency" : 225}, 
+
+		{ "source" : "node226", "frequency" : 226}, 
+
+		{ "source" : "node227", "frequency" : 227}, 
+
+		{ "source" : "node228", "frequency" : 228}, 
+
+		{ "source" : "node229", "frequency" : 229}, 
+
+		{ "source" : "node230", "frequency" : 230}, 
+
+		{ "source" : "node231", "frequency" : 231}, 
+
+		{ "source" : "node232", "frequency" : 232}, 
+
+		{ "source" : "node233", "frequency" : 233}, 
+
+		{ "source" : "node234", "frequency" : 234}, 
+
+		{ "source" : "node235", "frequency" : 235}, 
+
+		{ "source" : "node236", "frequency" : 236}, 
+
+		{ "source" : "node237", "frequency" : 237}, 
+
+		{ "source" : "node238", "frequency" : 238}, 
+
+		{ "source" : "node239", "frequency" : 239}, 
+
+		{ "source" : "node240", "frequency" : 240}, 
+
+		{ "source" : "node241", "frequency" : 241}, 
+
+		{ "source" : "node242", "frequency" : 242}, 
+
+		{ "source" : "node243", "frequency" : 243}, 
+
+		{ "source" : "node244", "frequency" : 244}, 
+
+		{ "source" : "node245", "frequency" : 245}, 
+
+		{ "source" : "node246", "frequency" : 246}, 
+
+		{ "source" : "node247", "frequency" : 247}, 
+
+		{ "source" : "node248", "frequency" : 248}, 
+
+		{ "source" : "node249", "frequency" : 249}, 
+
+		{ "source" : "node250", "frequency" : 250}, 
+
+		{ "source" : "node251", "frequency" : 251}, 
+
+		{ "source" : "node252", "frequency" : 252}, 
+
+		{ "source" : "node253", "frequency" : 253}, 
+
+		{ "source" : "node254", "frequency" : 254}, 
+
+		{ "source" : "node255", "frequency" : 255}, 
+
+		{ "source" : "node256", "frequency" : 256}, 
+
+		{ "source" : "node257", "frequency" : 257}, 
+
+		{ "source" : "node258", "frequency" : 258}, 
+
+		{ "source" : "node259", "frequency" : 259}, 
+
+		{ "source" : "node260", "frequency" : 260}, 
+
+		{ "source" : "node261", "frequency" : 261}, 
+
+		{ "source" : "node262", "frequency" : 262}, 
+
+		{ "source" : "node263", "frequency" : 263}, 
+
+		{ "source" : "node264", "frequency" : 264}, 
+
+		{ "source" : "node265", "frequency" : 265}, 
+
+		{ "source" : "node266", "frequency" : 266}, 
+
+		{ "source" : "node267", "frequency" : 267}, 
+
+		{ "source" : "node268", "frequency" : 268}, 
+
+		{ "source" : "node269", "frequency" : 269}, 
+
+		{ "source" : "node270", "frequency" : 270}, 
+
+		{ "source" : "node271", "frequency" : 271}, 
+
+		{ "source" : "node272", "frequency" : 272}, 
+
+		{ "source" : "node273", "frequency" : 273}, 
+
+		{ "source" : "node274", "frequency" : 274}, 
+
+		{ "source" : "node275", "frequency" : 275}, 
+
+		{ "source" : "node276", "frequency" : 276}, 
+
+		{ "source" : "node277", "frequency" : 277}, 
+
+		{ "source" : "node278", "frequency" : 278}, 
+
+		{ "source" : "node279", "frequency" : 279}, 
+
+		{ "source" : "node280", "frequency" : 280}, 
+
+		{ "source" : "node281", "frequency" : 281}, 
+
+		{ "source" : "node282", "frequency" : 282}, 
+
+		{ "source" : "node283", "frequency" : 283}, 
+
+		{ "source" : "node284", "frequency" : 284}, 
+
+		{ "source" : "node285", "frequency" : 285}, 
+
+		{ "source" : "node286", "frequency" : 286}, 
+
+		{ "source" : "node287", "frequency" : 287}, 
+
+		{ "source" : "node288", "frequency" : 288}, 
+
+		{ "source" : "node289", "frequency" : 289}, 
+
+		{ "source" : "node290", "frequency" : 290}, 
+
+		{ "source" : "node291", "frequency" : 291}, 
+
+		{ "source" : "node292", "frequency" : 292}, 
+
+		{ "source" : "node293", "frequency" : 293}, 
+
+		{ "source" : "node294", "frequency" : 294}, 
+
+		{ "source" : "node295", "frequency" : 295}, 
+
+		{ "source" : "node296", "frequency" : 296}, 
+
+		{ "source" : "node297", "frequency" : 297}, 
+
+		{ "source" : "node298", "frequency" : 298}, 
+
+		{ "source" : "node299", "frequency" : 299}, 
+
+		{ "source" : "node300", "frequency" : 300}, 
+
+		{ "source" : "node301", "frequency" : 301}, 
+
+		{ "source" : "node302", "frequency" : 302}, 
+
+		{ "source" : "node303", "frequency" : 303}, 
+
+		{ "source" : "node304", "frequency" : 304}, 
+
+		{ "source" : "node305", "frequency" : 305}, 
+
+		{ "source" : "node306", "frequency" : 306}, 
+
+		{ "source" : "node307", "frequency" : 307}, 
+
+		{ "source" : "node308", "frequency" : 308}, 
+
+		{ "source" : "node309", "frequency" : 309}, 
+
+		{ "source" : "node310", "frequency" : 310}, 
+
+		{ "source" : "node311", "frequency" : 311}, 
+
+		{ "source" : "node312", "frequency" : 312}, 
+
+		{ "source" : "node313", "frequency" : 313}, 
+
+		{ "source" : "node314", "frequency" : 314}, 
+
+		{ "source" : "node315", "frequency" : 315}, 
+
+		{ "source" : "node316", "frequency" : 316}, 
+
+		{ "source" : "node317", "frequency" : 317}, 
+
+		{ "source" : "node318", "frequency" : 318}, 
+
+		{ "source" : "node319", "frequency" : 319}, 
+
+		{ "source" : "node320", "frequency" : 320}, 
+
+		{ "source" : "node321", "frequency" : 321}, 
+
+		{ "source" : "node322", "frequency" : 322}, 
+
+		{ "source" : "node323", "frequency" : 323}, 
+
+		{ "source" : "node324", "frequency" : 324}, 
+
+		{ "source" : "node325", "frequency" : 325}, 
+
+		{ "source" : "node326", "frequency" : 326}, 
+
+		{ "source" : "node327", "frequency" : 327}, 
+
+		{ "source" : "node328", "frequency" : 328}, 
+
+		{ "source" : "node329", "frequency" : 329}, 
+
+		{ "source" : "node330", "frequency" : 330}, 
+
+		{ "source" : "node331", "frequency" : 331}, 
+
+		{ "source" : "node332", "frequency" : 332}, 
+
+		{ "source" : "node333", "frequency" : 333}, 
+
+		{ "source" : "node334", "frequency" : 334}, 
+
+		{ "source" : "node335", "frequency" : 335}, 
+
+		{ "source" : "node336", "frequency" : 336}, 
+
+		{ "source" : "node337", "frequency" : 337}, 
+
+		{ "source" : "node338", "frequency" : 338}, 
+
+		{ "source" : "node339", "frequency" : 339}, 
+
+		{ "source" : "node340", "frequency" : 340}, 
+
+		{ "source" : "node341", "frequency" : 341}, 
+
+		{ "source" : "node342", "frequency" : 342}, 
+
+		{ "source" : "node343", "frequency" : 343}, 
+
+		{ "source" : "node344", "frequency" : 344}, 
+
+		{ "source" : "node345", "frequency" : 345}, 
+
+		{ "source" : "node346", "frequency" : 346}, 
+
+		{ "source" : "node347", "frequency" : 347}, 
+
+		{ "source" : "node348", "frequency" : 348}, 
+
+		{ "source" : "node349", "frequency" : 349}, 
+
+		{ "source" : "node350", "frequency" : 350}, 
+
+		{ "source" : "node351", "frequency" : 351}, 
+
+		{ "source" : "node352", "frequency" : 352}, 
+
+		{ "source" : "node353", "frequency" : 353}, 
+
+		{ "source" : "node354", "frequency" : 354}, 
+
+		{ "source" : "node355", "frequency" : 355}, 
+
+		{ "source" : "node356", "frequency" : 356}, 
+
+		{ "source" : "node357", "frequency" : 357}, 
+
+		{ "source" : "node358", "frequency" : 358}, 
+
+		{ "source" : "node359", "frequency" : 359}, 
+
+		{ "source" : "node360", "frequency" : 360}, 
+
+		{ "source" : "node361", "frequency" : 361}, 
+
+		{ "source" : "node362", "frequency" : 362}, 
+
+		{ "source" : "node363", "frequency" : 363}, 
+
+		{ "source" : "node364", "frequency" : 364}, 
+
+		{ "source" : "node365", "frequency" : 365}, 
+
+		{ "source" : "node366", "frequency" : 366}, 
+
+		{ "source" : "node367", "frequency" : 367}, 
+
+		{ "source" : "node368", "frequency" : 368}, 
+
+		{ "source" : "node369", "frequency" : 369}, 
+
+		{ "source" : "node370", "frequency" : 370}, 
+
+		{ "source" : "node371", "frequency" : 371}, 
+
+		{ "source" : "node372", "frequency" : 372}, 
+
+		{ "source" : "node373", "frequency" : 373}, 
+
+		{ "source" : "node374", "frequency" : 374}, 
+
+		{ "source" : "node375", "frequency" : 375}, 
+
+		{ "source" : "node376", "frequency" : 376}, 
+
+		{ "source" : "node377", "frequency" : 377}, 
+
+		{ "source" : "node378", "frequency" : 378}, 
+
+		{ "source" : "node379", "frequency" : 379}, 
+
+		{ "source" : "node380", "frequency" : 380}, 
+
+		{ "source" : "node381", "frequency" : 381}, 
+
+		{ "source" : "node382", "frequency" : 382}, 
+
+		{ "source" : "node383", "frequency" : 383}, 
+
+		{ "source" : "node384", "frequency" : 384}, 
+
+		{ "source" : "node385", "frequency" : 385}, 
+
+		{ "source" : "node386", "frequency" : 386}, 
+
+		{ "source" : "node387", "frequency" : 387}, 
+
+		{ "source" : "node388", "frequency" : 388}, 
+
+		{ "source" : "node389", "frequency" : 389}, 
+
+		{ "source" : "node390", "frequency" : 390}, 
+
+		{ "source" : "node391", "frequency" : 391}, 
+
+		{ "source" : "node392", "frequency" : 392}, 
+
+		{ "source" : "node393", "frequency" : 393}, 
+
+		{ "source" : "node394", "frequency" : 394}, 
+
+		{ "source" : "node395", "frequency" : 395}, 
+
+		{ "source" : "node396", "frequency" : 396}, 
+
+		{ "source" : "node397", "frequency" : 397}, 
+
+		{ "source" : "node398", "frequency" : 398}, 
+
+		{ "source" : "node399", "frequency" : 399}, 
+
+		{ "source" : "node400", "frequency" : 400}, 
+
+		{ "source" : "node401", "frequency" : 401}, 
+
+		{ "source" : "node402", "frequency" : 402}, 
+
+		{ "source" : "node403", "frequency" : 403}, 
+
+		{ "source" : "node404", "frequency" : 404}, 
+
+		{ "source" : "node405", "frequency" : 405}, 
+
+		{ "source" : "node406", "frequency" : 406}, 
+
+		{ "source" : "node407", "frequency" : 407}, 
+
+		{ "source" : "node408", "frequency" : 408}, 
+
+		{ "source" : "node409", "frequency" : 409}, 
+
+		{ "source" : "node410", "frequency" : 410}, 
+
+		{ "source" : "node411", "frequency" : 411}, 
+
+		{ "source" : "node412", "frequency" : 412}, 
+
+		{ "source" : "node413", "frequency" : 413}, 
+
+		{ "source" : "node414", "frequency" : 414}, 
+
+		{ "source" : "node415", "frequency" : 415}, 
+
+		{ "source" : "node416", "frequency" : 416}, 
+
+		{ "source" : "node417", "frequency" : 417}, 
+
+		{ "source" : "node418", "frequency" : 418}, 
+
+		{ "source" : "node419", "frequency" : 419}, 
+
+		{ "source" : "node420", "frequency" : 420}, 
+
+		{ "source" : "node421", "frequency" : 421}, 
+
+		{ "source" : "node422", "frequency" : 422}, 
+
+		{ "source" : "node423", "frequency" : 423}, 
+
+		{ "source" : "node424", "frequency" : 424}, 
+
+		{ "source" : "node425", "frequency" : 425}, 
+
+		{ "source" : "node426", "frequency" : 426}, 
+
+		{ "source" : "node427", "frequency" : 427}, 
+
+		{ "source" : "node428", "frequency" : 428}, 
+
+		{ "source" : "node429", "frequency" : 429}, 
+
+		{ "source" : "node430", "frequency" : 430}, 
+
+		{ "source" : "node431", "frequency" : 431}, 
+
+		{ "source" : "node432", "frequency" : 432}, 
+
+		{ "source" : "node433", "frequency" : 433}, 
+
+		{ "source" : "node434", "frequency" : 434}, 
+
+		{ "source" : "node435", "frequency" : 435}, 
+
+		{ "source" : "node436", "frequency" : 436}, 
+
+		{ "source" : "node437", "frequency" : 437}, 
+
+		{ "source" : "node438", "frequency" : 438}, 
+
+		{ "source" : "node439", "frequency" : 439}, 
+
+		{ "source" : "node440", "frequency" : 440}, 
+
+		{ "source" : "node441", "frequency" : 441}, 
+
+		{ "source" : "node442", "frequency" : 442}, 
+
+		{ "source" : "node443", "frequency" : 443}, 
+
+		{ "source" : "node444", "frequency" : 444}, 
+
+		{ "source" : "node445", "frequency" : 445}, 
+
+		{ "source" : "node446", "frequency" : 446}, 
+
+		{ "source" : "node447", "frequency" : 447}, 
+
+		{ "source" : "node448", "frequency" : 448}, 
+
+		{ "source" : "node449", "frequency" : 449}, 
+
+		{ "source" : "node450", "frequency" : 450}, 
+
+		{ "source" : "node451", "frequency" : 451}, 
+
+		{ "source" : "node452", "frequency" : 452}, 
+
+		{ "source" : "node453", "frequency" : 453}, 
+
+		{ "source" : "node454", "frequency" : 454}, 
+
+		{ "source" : "node455", "frequency" : 455}, 
+
+		{ "source" : "node456", "frequency" : 456}, 
+
+		{ "source" : "node457", "frequency" : 457}, 
+
+		{ "source" : "node458", "frequency" : 458}, 
+
+		{ "source" : "node459", "frequency" : 459}, 
+
+		{ "source" : "node460", "frequency" : 460}, 
+
+		{ "source" : "node461", "frequency" : 461}, 
+
+		{ "source" : "node462", "frequency" : 462}, 
+
+		{ "source" : "node463", "frequency" : 463}, 
+
+		{ "source" : "node464", "frequency" : 464}, 
+
+		{ "source" : "node465", "frequency" : 465}, 
+
+		{ "source" : "node466", "frequency" : 466}, 
+
+		{ "source" : "node467", "frequency" : 467}, 
+
+		{ "source" : "node468", "frequency" : 468}, 
+
+		{ "source" : "node469", "frequency" : 469}, 
+
+		{ "source" : "node470", "frequency" : 470}, 
+
+		{ "source" : "node471", "frequency" : 471}, 
+
+		{ "source" : "node472", "frequency" : 472}, 
+
+		{ "source" : "node473", "frequency" : 473}, 
+
+		{ "source" : "node474", "frequency" : 474}, 
+
+		{ "source" : "node475", "frequency" : 475}, 
+
+		{ "source" : "node476", "frequency" : 476}, 
+
+		{ "source" : "node477", "frequency" : 477}, 
+
+		{ "source" : "node478", "frequency" : 478}, 
+
+		{ "source" : "node479", "frequency" : 479}, 
+
+		{ "source" : "node480", "frequency" : 480}, 
+
+		{ "source" : "node481", "frequency" : 481}, 
+
+		{ "source" : "node482", "frequency" : 482}, 
+
+		{ "source" : "node483", "frequency" : 483}, 
+
+		{ "source" : "node484", "frequency" : 484}, 
+
+		{ "source" : "node485", "frequency" : 485}, 
+
+		{ "source" : "node486", "frequency" : 486}, 
+
+		{ "source" : "node487", "frequency" : 487}, 
+
+		{ "source" : "node488", "frequency" : 488}, 
+
+		{ "source" : "node489", "frequency" : 489}, 
+
+		{ "source" : "node490", "frequency" : 490}, 
+
+		{ "source" : "node491", "frequency" : 491}, 
+
+		{ "source" : "node492", "frequency" : 492}, 
+
+		{ "source" : "node493", "frequency" : 493}, 
+
+		{ "source" : "node494", "frequency" : 494}, 
+
+		{ "source" : "node495", "frequency" : 495}, 
+
+		{ "source" : "node496", "frequency" : 496}, 
+
+		{ "source" : "node497", "frequency" : 497}, 
+
+		{ "source" : "node498", "frequency" : 498}, 
+
+		{ "source" : "node499", "frequency" : 499}, 
+
+		{ "source" : "node500", "frequency" : 500}, 
+
+ 
+ ], 
+
+ "arcs" : [ 
+
+		{ "source" : "node436" , "target" : "node265", "frequency" : 1, "dependency" : 0  },
+		{ "source" : "node466" , "target" : "node390", "frequency" : 2, "dependency" : 0  },
+		{ "source" : "node162" , "target" : "node182", "frequency" : 3, "dependency" : 0  },
+		{ "source" : "node43" , "target" : "node170", "frequency" : 4, "dependency" : 0  },
+		{ "source" : "node147" , "target" : "node106", "frequency" : 5, "dependency" : 0  },
+		{ "source" : "node417" , "target" : "node21", "frequency" : 6, "dependency" : 0  },
+		{ "source" : "node180" , "target" : "node371", "frequency" : 7, "dependency" : 0  },
+		{ "source" : "node155" , "target" : "node92", "frequency" : 8, "dependency" : 0  },
+		{ "source" : "node204" , "target" : "node171", "frequency" : 9, "dependency" : 0  },
+		{ "source" : "node360" , "target" : "node69", "frequency" : 10, "dependency" : 0  },
+		{ "source" : "node252" , "target" : "node291", "frequency" : 11, "dependency" : 0  },
+		{ "source" : "node263" , "target" : "node488", "frequency" : 12, "dependency" : 0  },
+		{ "source" : "node289" , "target" : "node64", "frequency" : 13, "dependency" : 0  },
+		{ "source" : "node95" , "target" : "node195", "frequency" : 14, "dependency" : 0  },
+		{ "source" : "node210" , "target" : "node176", "frequency" : 15, "dependency" : 0  },
+		{ "source" : "node307" , "target" : "node395", "frequency" : 16, "dependency" : 0  },
+		{ "source" : "node325" , "target" : "node371", "frequency" : 17, "dependency" : 0  },
+		{ "source" : "node239" , "target" : "node137", "frequency" : 18, "dependency" : 0  },
+		{ "source" : "node138" , "target" : "node117", "frequency" : 19, "dependency" : 0  },
+		{ "source" : "node366" , "target" : "node99", "frequency" : 20, "dependency" : 0  },
+		{ "source" : "node137" , "target" : "node446", "frequency" : 21, "dependency" : 0  },
+		{ "source" : "node287" , "target" : "node82", "frequency" : 22, "dependency" : 0  },
+		{ "source" : "node366" , "target" : "node492", "frequency" : 23, "dependency" : 0  },
+		{ "source" : "node424" , "target" : "node436", "frequency" : 24, "dependency" : 0  },
+		{ "source" : "node238" , "target" : "node423", "frequency" : 25, "dependency" : 0  },
+		{ "source" : "node251" , "target" : "node476", "frequency" : 26, "dependency" : 0  },
+		{ "source" : "node438" , "target" : "node226", "frequency" : 27, "dependency" : 0  },
+		{ "source" : "node488" , "target" : "node367", "frequency" : 28, "dependency" : 0  },
+		{ "source" : "node447" , "target" : "node269", "frequency" : 29, "dependency" : 0  },
+		{ "source" : "node128" , "target" : "node199", "frequency" : 30, "dependency" : 0  },
+		{ "source" : "node229" , "target" : "node233", "frequency" : 31, "dependency" : 0  },
+		{ "source" : "node310" , "target" : "node328", "frequency" : 32, "dependency" : 0  },
+		{ "source" : "node144" , "target" : "node1", "frequency" : 33, "dependency" : 0  },
+		{ "source" : "node223" , "target" : "node44", "frequency" : 34, "dependency" : 0  },
+		{ "source" : "node294" , "target" : "node157", "frequency" : 35, "dependency" : 0  },
+		{ "source" : "node70" , "target" : "node60", "frequency" : 36, "dependency" : 0  },
+		{ "source" : "node120" , "target" : "node281", "frequency" : 37, "dependency" : 0  },
+		{ "source" : "node357" , "target" : "node311", "frequency" : 38, "dependency" : 0  },
+		{ "source" : "node306" , "target" : "node183", "frequency" : 39, "dependency" : 0  },
+		{ "source" : "node338" , "target" : "node101", "frequency" : 40, "dependency" : 0  },
+		{ "source" : "node378" , "target" : "node410", "frequency" : 41, "dependency" : 0  },
+		{ "source" : "node494" , "target" : "node356", "frequency" : 42, "dependency" : 0  },
+		{ "source" : "node291" , "target" : "node120", "frequency" : 43, "dependency" : 0  },
+		{ "source" : "node140" , "target" : "node14", "frequency" : 44, "dependency" : 0  },
+		{ "source" : "node242" , "target" : "node189", "frequency" : 45, "dependency" : 0  },
+		{ "source" : "node384" , "target" : "node101", "frequency" : 46, "dependency" : 0  },
+		{ "source" : "node171" , "target" : "node49", "frequency" : 47, "dependency" : 0  },
+		{ "source" : "node373" , "target" : "node334", "frequency" : 48, "dependency" : 0  },
+		{ "source" : "node269" , "target" : "node425", "frequency" : 49, "dependency" : 0  },
+		{ "source" : "node385" , "target" : "node228", "frequency" : 50, "dependency" : 0  },
+		{ "source" : "node410" , "target" : "node203", "frequency" : 51, "dependency" : 0  },
+		{ "source" : "node196" , "target" : "node201", "frequency" : 52, "dependency" : 0  },
+		{ "source" : "node163" , "target" : "node402", "frequency" : 53, "dependency" : 0  },
+		{ "source" : "node205" , "target" : "node188", "frequency" : 54, "dependency" : 0  },
+		{ "source" : "node275" , "target" : "node247", "frequency" : 55, "dependency" : 0  },
+		{ "source" : "node442" , "target" : "node371", "frequency" : 56, "dependency" : 0  },
+		{ "source" : "node449" , "target" : "node484", "frequency" : 57, "dependency" : 0  },
+		{ "source" : "node402" , "target" : "node199", "frequency" : 58, "dependency" : 0  },
+		{ "source" : "node313" , "target" : "node442", "frequency" : 59, "dependency" : 0  },
+		{ "source" : "node497" , "target" : "node365", "frequency" : 60, "dependency" : 0  },
+		{ "source" : "node163" , "target" : "node364", "frequency" : 61, "dependency" : 0  },
+		{ "source" : "node92" , "target" : "node27", "frequency" : 62, "dependency" : 0  },
+		{ "source" : "node154" , "target" : "node143", "frequency" : 63, "dependency" : 0  },
+		{ "source" : "node498" , "target" : "node379", "frequency" : 64, "dependency" : 0  },
+		{ "source" : "node410" , "target" : "node40", "frequency" : 65, "dependency" : 0  },
+		{ "source" : "node162" , "target" : "node206", "frequency" : 66, "dependency" : 0  },
+		{ "source" : "node29" , "target" : "node133", "frequency" : 67, "dependency" : 0  },
+		{ "source" : "node149" , "target" : "node242", "frequency" : 68, "dependency" : 0  },
+		{ "source" : "node53" , "target" : "node477", "frequency" : 69, "dependency" : 0  },
+		{ "source" : "node340" , "target" : "node19", "frequency" : 70, "dependency" : 0  },
+		{ "source" : "node282" , "target" : "node25", "frequency" : 71, "dependency" : 0  },
+		{ "source" : "node229" , "target" : "node372", "frequency" : 72, "dependency" : 0  },
+		{ "source" : "node419" , "target" : "node379", "frequency" : 73, "dependency" : 0  },
+		{ "source" : "node72" , "target" : "node478", "frequency" : 74, "dependency" : 0  },
+		{ "source" : "node394" , "target" : "node93", "frequency" : 75, "dependency" : 0  },
+		{ "source" : "node256" , "target" : "node205", "frequency" : 76, "dependency" : 0  },
+		{ "source" : "node5" , "target" : "node178", "frequency" : 77, "dependency" : 0  },
+		{ "source" : "node427" , "target" : "node108", "frequency" : 78, "dependency" : 0  },
+		{ "source" : "node490" , "target" : "node303", "frequency" : 79, "dependency" : 0  },
+		{ "source" : "node314" , "target" : "node367", "frequency" : 80, "dependency" : 0  },
+		{ "source" : "node67" , "target" : "node262", "frequency" : 81, "dependency" : 0  },
+		{ "source" : "node43" , "target" : "node199", "frequency" : 82, "dependency" : 0  },
+		{ "source" : "node139" , "target" : "node11", "frequency" : 83, "dependency" : 0  },
+		{ "source" : "node121" , "target" : "node404", "frequency" : 84, "dependency" : 0  },
+		{ "source" : "node205" , "target" : "node219", "frequency" : 85, "dependency" : 0  },
+		{ "source" : "node500" , "target" : "node462", "frequency" : 86, "dependency" : 0  },
+		{ "source" : "node25" , "target" : "node342", "frequency" : 87, "dependency" : 0  },
+		{ "source" : "node250" , "target" : "node44", "frequency" : 88, "dependency" : 0  },
+		{ "source" : "node5" , "target" : "node366", "frequency" : 89, "dependency" : 0  },
+		{ "source" : "node394" , "target" : "node157", "frequency" : 90, "dependency" : 0  },
+		{ "source" : "node494" , "target" : "node160", "frequency" : 91, "dependency" : 0  },
+		{ "source" : "node337" , "target" : "node342", "frequency" : 92, "dependency" : 0  },
+		{ "source" : "node81" , "target" : "node317", "frequency" : 93, "dependency" : 0  },
+		{ "source" : "node299" , "target" : "node479", "frequency" : 94, "dependency" : 0  },
+		{ "source" : "node64" , "target" : "node209", "frequency" : 95, "dependency" : 0  },
+		{ "source" : "node451" , "target" : "node338", "frequency" : 96, "dependency" : 0  },
+		{ "source" : "node165" , "target" : "node155", "frequency" : 97, "dependency" : 0  },
+		{ "source" : "node145" , "target" : "node307", "frequency" : 98, "dependency" : 0  },
+		{ "source" : "node30" , "target" : "node401", "frequency" : 99, "dependency" : 0  },
+		{ "source" : "node448" , "target" : "node315", "frequency" : 100, "dependency" : 0  },
+		{ "source" : "node209" , "target" : "node213", "frequency" : 101, "dependency" : 0  },
+		{ "source" : "node427" , "target" : "node25", "frequency" : 102, "dependency" : 0  },
+		{ "source" : "node463" , "target" : "node431", "frequency" : 103, "dependency" : 0  },
+		{ "source" : "node485" , "target" : "node482", "frequency" : 104, "dependency" : 0  },
+		{ "source" : "node307" , "target" : "node84", "frequency" : 105, "dependency" : 0  },
+		{ "source" : "node368" , "target" : "node437", "frequency" : 106, "dependency" : 0  },
+		{ "source" : "node378" , "target" : "node279", "frequency" : 107, "dependency" : 0  },
+		{ "source" : "node254" , "target" : "node358", "frequency" : 108, "dependency" : 0  },
+		{ "source" : "node58" , "target" : "node486", "frequency" : 109, "dependency" : 0  },
+		{ "source" : "node318" , "target" : "node163", "frequency" : 110, "dependency" : 0  },
+		{ "source" : "node334" , "target" : "node458", "frequency" : 111, "dependency" : 0  },
+		{ "source" : "node456" , "target" : "node345", "frequency" : 112, "dependency" : 0  },
+		{ "source" : "node286" , "target" : "node453", "frequency" : 113, "dependency" : 0  },
+		{ "source" : "node466" , "target" : "node247", "frequency" : 114, "dependency" : 0  },
+		{ "source" : "node488" , "target" : "node443", "frequency" : 115, "dependency" : 0  },
+		{ "source" : "node257" , "target" : "node400", "frequency" : 116, "dependency" : 0  },
+		{ "source" : "node348" , "target" : "node122", "frequency" : 117, "dependency" : 0  },
+		{ "source" : "node1" , "target" : "node207", "frequency" : 118, "dependency" : 0  },
+		{ "source" : "node500" , "target" : "node250", "frequency" : 119, "dependency" : 0  },
+		{ "source" : "node363" , "target" : "node398", "frequency" : 120, "dependency" : 0  },
+		{ "source" : "node92" , "target" : "node450", "frequency" : 121, "dependency" : 0  },
+		{ "source" : "node457" , "target" : "node238", "frequency" : 122, "dependency" : 0  },
+		{ "source" : "node121" , "target" : "node379", "frequency" : 123, "dependency" : 0  },
+		{ "source" : "node308" , "target" : "node379", "frequency" : 124, "dependency" : 0  },
+		{ "source" : "node293" , "target" : "node226", "frequency" : 125, "dependency" : 0  },
+		{ "source" : "node366" , "target" : "node29", "frequency" : 126, "dependency" : 0  },
+		{ "source" : "node13" , "target" : "node97", "frequency" : 127, "dependency" : 0  },
+		{ "source" : "node409" , "target" : "node420", "frequency" : 128, "dependency" : 0  },
+		{ "source" : "node290" , "target" : "node464", "frequency" : 129, "dependency" : 0  },
+		{ "source" : "node160" , "target" : "node341", "frequency" : 130, "dependency" : 0  },
+		{ "source" : "node153" , "target" : "node273", "frequency" : 131, "dependency" : 0  },
+		{ "source" : "node150" , "target" : "node335", "frequency" : 132, "dependency" : 0  },
+		{ "source" : "node232" , "target" : "node220", "frequency" : 133, "dependency" : 0  },
+		{ "source" : "node237" , "target" : "node42", "frequency" : 134, "dependency" : 0  },
+		{ "source" : "node385" , "target" : "node489", "frequency" : 135, "dependency" : 0  },
+		{ "source" : "node479" , "target" : "node282", "frequency" : 136, "dependency" : 0  },
+		{ "source" : "node35" , "target" : "node407", "frequency" : 137, "dependency" : 0  },
+		{ "source" : "node446" , "target" : "node254", "frequency" : 138, "dependency" : 0  },
+		{ "source" : "node402" , "target" : "node442", "frequency" : 139, "dependency" : 0  },
+		{ "source" : "node418" , "target" : "node315", "frequency" : 140, "dependency" : 0  },
+		{ "source" : "node301" , "target" : "node362", "frequency" : 141, "dependency" : 0  },
+		{ "source" : "node275" , "target" : "node455", "frequency" : 142, "dependency" : 0  },
+		{ "source" : "node295" , "target" : "node100", "frequency" : 143, "dependency" : 0  },
+		{ "source" : "node43" , "target" : "node326", "frequency" : 144, "dependency" : 0  },
+		{ "source" : "node237" , "target" : "node352", "frequency" : 145, "dependency" : 0  },
+		{ "source" : "node179" , "target" : "node230", "frequency" : 146, "dependency" : 0  },
+		{ "source" : "node218" , "target" : "node300", "frequency" : 147, "dependency" : 0  },
+		{ "source" : "node347" , "target" : "node334", "frequency" : 148, "dependency" : 0  },
+		{ "source" : "node324" , "target" : "node308", "frequency" : 149, "dependency" : 0  },
+		{ "source" : "node69" , "target" : "node437", "frequency" : 150, "dependency" : 0  },
+		{ "source" : "node253" , "target" : "node326", "frequency" : 151, "dependency" : 0  },
+		{ "source" : "node359" , "target" : "node19", "frequency" : 152, "dependency" : 0  },
+		{ "source" : "node256" , "target" : "node199", "frequency" : 153, "dependency" : 0  },
+		{ "source" : "node51" , "target" : "node492", "frequency" : 154, "dependency" : 0  },
+		{ "source" : "node91" , "target" : "node312", "frequency" : 155, "dependency" : 0  },
+		{ "source" : "node411" , "target" : "node449", "frequency" : 156, "dependency" : 0  },
+		{ "source" : "node305" , "target" : "node24", "frequency" : 157, "dependency" : 0  },
+		{ "source" : "node251" , "target" : "node497", "frequency" : 158, "dependency" : 0  },
+		{ "source" : "node420" , "target" : "node121", "frequency" : 159, "dependency" : 0  },
+		{ "source" : "node395" , "target" : "node437", "frequency" : 160, "dependency" : 0  },
+		{ "source" : "node69" , "target" : "node169", "frequency" : 161, "dependency" : 0  },
+		{ "source" : "node424" , "target" : "node176", "frequency" : 162, "dependency" : 0  },
+		{ "source" : "node241" , "target" : "node491", "frequency" : 163, "dependency" : 0  },
+		{ "source" : "node29" , "target" : "node136", "frequency" : 164, "dependency" : 0  },
+		{ "source" : "node64" , "target" : "node419", "frequency" : 165, "dependency" : 0  },
+		{ "source" : "node152" , "target" : "node254", "frequency" : 166, "dependency" : 0  },
+		{ "source" : "node472" , "target" : "node356", "frequency" : 167, "dependency" : 0  },
+		{ "source" : "node222" , "target" : "node387", "frequency" : 168, "dependency" : 0  },
+		{ "source" : "node228" , "target" : "node360", "frequency" : 169, "dependency" : 0  },
+		{ "source" : "node80" , "target" : "node103", "frequency" : 170, "dependency" : 0  },
+		{ "source" : "node84" , "target" : "node83", "frequency" : 171, "dependency" : 0  },
+		{ "source" : "node448" , "target" : "node184", "frequency" : 172, "dependency" : 0  },
+		{ "source" : "node352" , "target" : "node260", "frequency" : 173, "dependency" : 0  },
+		{ "source" : "node491" , "target" : "node2", "frequency" : 174, "dependency" : 0  },
+		{ "source" : "node438" , "target" : "node221", "frequency" : 175, "dependency" : 0  },
+		{ "source" : "node309" , "target" : "node301", "frequency" : 176, "dependency" : 0  },
+		{ "source" : "node261" , "target" : "node459", "frequency" : 177, "dependency" : 0  },
+		{ "source" : "node476" , "target" : "node97", "frequency" : 178, "dependency" : 0  },
+		{ "source" : "node369" , "target" : "node373", "frequency" : 179, "dependency" : 0  },
+		{ "source" : "node154" , "target" : "node358", "frequency" : 180, "dependency" : 0  },
+		{ "source" : "node266" , "target" : "node419", "frequency" : 181, "dependency" : 0  },
+		{ "source" : "node215" , "target" : "node421", "frequency" : 182, "dependency" : 0  },
+		{ "source" : "node390" , "target" : "node131", "frequency" : 183, "dependency" : 0  },
+		{ "source" : "node291" , "target" : "node494", "frequency" : 184, "dependency" : 0  },
+		{ "source" : "node330" , "target" : "node302", "frequency" : 185, "dependency" : 0  },
+		{ "source" : "node370" , "target" : "node186", "frequency" : 186, "dependency" : 0  },
+		{ "source" : "node301" , "target" : "node417", "frequency" : 187, "dependency" : 0  },
+		{ "source" : "node350" , "target" : "node437", "frequency" : 188, "dependency" : 0  },
+		{ "source" : "node242" , "target" : "node200", "frequency" : 189, "dependency" : 0  },
+		{ "source" : "node493" , "target" : "node57", "frequency" : 190, "dependency" : 0  },
+		{ "source" : "node410" , "target" : "node359", "frequency" : 191, "dependency" : 0  },
+		{ "source" : "node276" , "target" : "node477", "frequency" : 192, "dependency" : 0  },
+		{ "source" : "node221" , "target" : "node282", "frequency" : 193, "dependency" : 0  },
+		{ "source" : "node263" , "target" : "node297", "frequency" : 194, "dependency" : 0  },
+		{ "source" : "node438" , "target" : "node257", "frequency" : 195, "dependency" : 0  },
+		{ "source" : "node41" , "target" : "node437", "frequency" : 196, "dependency" : 0  },
+		{ "source" : "node419" , "target" : "node456", "frequency" : 197, "dependency" : 0  },
+		{ "source" : "node128" , "target" : "node302", "frequency" : 198, "dependency" : 0  },
+		{ "source" : "node139" , "target" : "node288", "frequency" : 199, "dependency" : 0  },
+		{ "source" : "node365" , "target" : "node414", "frequency" : 200, "dependency" : 0  },
+		{ "source" : "node256" , "target" : "node365", "frequency" : 201, "dependency" : 0  },
+		{ "source" : "node423" , "target" : "node86", "frequency" : 202, "dependency" : 0  },
+		{ "source" : "node237" , "target" : "node380", "frequency" : 203, "dependency" : 0  },
+		{ "source" : "node27" , "target" : "node308", "frequency" : 204, "dependency" : 0  },
+		{ "source" : "node76" , "target" : "node443", "frequency" : 205, "dependency" : 0  },
+		{ "source" : "node402" , "target" : "node13", "frequency" : 206, "dependency" : 0  },
+		{ "source" : "node454" , "target" : "node269", "frequency" : 207, "dependency" : 0  },
+		{ "source" : "node152" , "target" : "node479", "frequency" : 208, "dependency" : 0  },
+		{ "source" : "node366" , "target" : "node284", "frequency" : 209, "dependency" : 0  },
+		{ "source" : "node263" , "target" : "node196", "frequency" : 210, "dependency" : 0  },
+		{ "source" : "node370" , "target" : "node98", "frequency" : 211, "dependency" : 0  },
+		{ "source" : "node106" , "target" : "node66", "frequency" : 212, "dependency" : 0  },
+		{ "source" : "node328" , "target" : "node256", "frequency" : 213, "dependency" : 0  },
+		{ "source" : "node32" , "target" : "node453", "frequency" : 214, "dependency" : 0  },
+		{ "source" : "node209" , "target" : "node211", "frequency" : 215, "dependency" : 0  },
+		{ "source" : "node370" , "target" : "node138", "frequency" : 216, "dependency" : 0  },
+		{ "source" : "node68" , "target" : "node16", "frequency" : 217, "dependency" : 0  },
+		{ "source" : "node222" , "target" : "node388", "frequency" : 218, "dependency" : 0  },
+		{ "source" : "node399" , "target" : "node197", "frequency" : 219, "dependency" : 0  },
+		{ "source" : "node437" , "target" : "node306", "frequency" : 220, "dependency" : 0  },
+		{ "source" : "node291" , "target" : "node315", "frequency" : 221, "dependency" : 0  },
+		{ "source" : "node319" , "target" : "node373", "frequency" : 222, "dependency" : 0  },
+		{ "source" : "node124" , "target" : "node365", "frequency" : 223, "dependency" : 0  },
+		{ "source" : "node29" , "target" : "node483", "frequency" : 224, "dependency" : 0  },
+		{ "source" : "node244" , "target" : "node48", "frequency" : 225, "dependency" : 0  },
+		{ "source" : "node170" , "target" : "node494", "frequency" : 226, "dependency" : 0  },
+		{ "source" : "node432" , "target" : "node31", "frequency" : 227, "dependency" : 0  },
+		{ "source" : "node59" , "target" : "node9", "frequency" : 228, "dependency" : 0  },
+		{ "source" : "node301" , "target" : "node31", "frequency" : 229, "dependency" : 0  },
+		{ "source" : "node22" , "target" : "node56", "frequency" : 230, "dependency" : 0  },
+		{ "source" : "node475" , "target" : "node70", "frequency" : 231, "dependency" : 0  },
+		{ "source" : "node37" , "target" : "node422", "frequency" : 232, "dependency" : 0  },
+		{ "source" : "node226" , "target" : "node237", "frequency" : 233, "dependency" : 0  },
+		{ "source" : "node39" , "target" : "node92", "frequency" : 234, "dependency" : 0  },
+		{ "source" : "node464" , "target" : "node407", "frequency" : 235, "dependency" : 0  },
+		{ "source" : "node374" , "target" : "node213", "frequency" : 236, "dependency" : 0  },
+		{ "source" : "node282" , "target" : "node332", "frequency" : 237, "dependency" : 0  },
+		{ "source" : "node225" , "target" : "node60", "frequency" : 238, "dependency" : 0  },
+		{ "source" : "node61" , "target" : "node72", "frequency" : 239, "dependency" : 0  },
+		{ "source" : "node154" , "target" : "node402", "frequency" : 240, "dependency" : 0  },
+		{ "source" : "node4" , "target" : "node231", "frequency" : 241, "dependency" : 0  },
+		{ "source" : "node126" , "target" : "node62", "frequency" : 242, "dependency" : 0  },
+		{ "source" : "node161" , "target" : "node121", "frequency" : 243, "dependency" : 0  },
+		{ "source" : "node291" , "target" : "node85", "frequency" : 244, "dependency" : 0  },
+		{ "source" : "node88" , "target" : "node427", "frequency" : 245, "dependency" : 0  },
+		{ "source" : "node365" , "target" : "node418", "frequency" : 246, "dependency" : 0  },
+		{ "source" : "node179" , "target" : "node296", "frequency" : 247, "dependency" : 0  },
+		{ "source" : "node161" , "target" : "node232", "frequency" : 248, "dependency" : 0  },
+		{ "source" : "node314" , "target" : "node447", "frequency" : 249, "dependency" : 0  },
+		{ "source" : "node456" , "target" : "node184", "frequency" : 250, "dependency" : 0  },
+		{ "source" : "node324" , "target" : "node313", "frequency" : 251, "dependency" : 0  },
+		{ "source" : "node177" , "target" : "node419", "frequency" : 252, "dependency" : 0  },
+		{ "source" : "node2" , "target" : "node22", "frequency" : 253, "dependency" : 0  },
+		{ "source" : "node101" , "target" : "node340", "frequency" : 254, "dependency" : 0  },
+		{ "source" : "node32" , "target" : "node365", "frequency" : 255, "dependency" : 0  },
+		{ "source" : "node352" , "target" : "node21", "frequency" : 256, "dependency" : 0  },
+		{ "source" : "node5" , "target" : "node364", "frequency" : 257, "dependency" : 0  },
+		{ "source" : "node382" , "target" : "node327", "frequency" : 258, "dependency" : 0  },
+		{ "source" : "node86" , "target" : "node130", "frequency" : 259, "dependency" : 0  },
+		{ "source" : "node9" , "target" : "node120", "frequency" : 260, "dependency" : 0  },
+		{ "source" : "node166" , "target" : "node421", "frequency" : 261, "dependency" : 0  },
+		{ "source" : "node434" , "target" : "node322", "frequency" : 262, "dependency" : 0  },
+		{ "source" : "node222" , "target" : "node291", "frequency" : 263, "dependency" : 0  },
+		{ "source" : "node465" , "target" : "node406", "frequency" : 264, "dependency" : 0  },
+		{ "source" : "node45" , "target" : "node232", "frequency" : 265, "dependency" : 0  },
+		{ "source" : "node215" , "target" : "node20", "frequency" : 266, "dependency" : 0  },
+		{ "source" : "node331" , "target" : "node299", "frequency" : 267, "dependency" : 0  },
+		{ "source" : "node235" , "target" : "node32", "frequency" : 268, "dependency" : 0  },
+		{ "source" : "node128" , "target" : "node462", "frequency" : 269, "dependency" : 0  },
+		{ "source" : "node68" , "target" : "node371", "frequency" : 270, "dependency" : 0  },
+		{ "source" : "node9" , "target" : "node80", "frequency" : 271, "dependency" : 0  },
+		{ "source" : "node475" , "target" : "node321", "frequency" : 272, "dependency" : 0  },
+		{ "source" : "node332" , "target" : "node440", "frequency" : 273, "dependency" : 0  },
+		{ "source" : "node111" , "target" : "node31", "frequency" : 274, "dependency" : 0  },
+		{ "source" : "node338" , "target" : "node77", "frequency" : 275, "dependency" : 0  },
+		{ "source" : "node353" , "target" : "node301", "frequency" : 276, "dependency" : 0  },
+		{ "source" : "node77" , "target" : "node123", "frequency" : 277, "dependency" : 0  },
+		{ "source" : "node106" , "target" : "node476", "frequency" : 278, "dependency" : 0  },
+		{ "source" : "node435" , "target" : "node90", "frequency" : 279, "dependency" : 0  },
+		{ "source" : "node471" , "target" : "node351", "frequency" : 280, "dependency" : 0  },
+		{ "source" : "node284" , "target" : "node267", "frequency" : 281, "dependency" : 0  },
+		{ "source" : "node170" , "target" : "node175", "frequency" : 282, "dependency" : 0  },
+		{ "source" : "node89" , "target" : "node153", "frequency" : 283, "dependency" : 0  },
+		{ "source" : "node383" , "target" : "node240", "frequency" : 284, "dependency" : 0  },
+		{ "source" : "node398" , "target" : "node77", "frequency" : 285, "dependency" : 0  },
+		{ "source" : "node70" , "target" : "node7", "frequency" : 286, "dependency" : 0  },
+		{ "source" : "node174" , "target" : "node346", "frequency" : 287, "dependency" : 0  },
+		{ "source" : "node379" , "target" : "node89", "frequency" : 288, "dependency" : 0  },
+		{ "source" : "node69" , "target" : "node104", "frequency" : 289, "dependency" : 0  },
+		{ "source" : "node45" , "target" : "node333", "frequency" : 290, "dependency" : 0  },
+		{ "source" : "node96" , "target" : "node243", "frequency" : 291, "dependency" : 0  },
+		{ "source" : "node436" , "target" : "node334", "frequency" : 292, "dependency" : 0  },
+		{ "source" : "node261" , "target" : "node86", "frequency" : 293, "dependency" : 0  },
+		{ "source" : "node195" , "target" : "node260", "frequency" : 294, "dependency" : 0  },
+		{ "source" : "node52" , "target" : "node215", "frequency" : 295, "dependency" : 0  },
+		{ "source" : "node151" , "target" : "node364", "frequency" : 296, "dependency" : 0  },
+		{ "source" : "node392" , "target" : "node166", "frequency" : 297, "dependency" : 0  },
+		{ "source" : "node440" , "target" : "node446", "frequency" : 298, "dependency" : 0  },
+		{ "source" : "node81" , "target" : "node332", "frequency" : 299, "dependency" : 0  },
+		{ "source" : "node433" , "target" : "node108", "frequency" : 300, "dependency" : 0  },
+		{ "source" : "node225" , "target" : "node28", "frequency" : 301, "dependency" : 0  },
+		{ "source" : "node216" , "target" : "node382", "frequency" : 302, "dependency" : 0  },
+		{ "source" : "node79" , "target" : "node52", "frequency" : 303, "dependency" : 0  },
+		{ "source" : "node225" , "target" : "node1", "frequency" : 304, "dependency" : 0  },
+		{ "source" : "node23" , "target" : "node124", "frequency" : 305, "dependency" : 0  },
+		{ "source" : "node223" , "target" : "node222", "frequency" : 306, "dependency" : 0  },
+		{ "source" : "node63" , "target" : "node194", "frequency" : 307, "dependency" : 0  },
+		{ "source" : "node391" , "target" : "node82", "frequency" : 308, "dependency" : 0  },
+		{ "source" : "node127" , "target" : "node341", "frequency" : 309, "dependency" : 0  },
+		{ "source" : "node48" , "target" : "node310", "frequency" : 310, "dependency" : 0  },
+		{ "source" : "node115" , "target" : "node386", "frequency" : 311, "dependency" : 0  },
+		{ "source" : "node61" , "target" : "node12", "frequency" : 312, "dependency" : 0  },
+		{ "source" : "node64" , "target" : "node116", "frequency" : 313, "dependency" : 0  },
+		{ "source" : "node460" , "target" : "node147", "frequency" : 314, "dependency" : 0  },
+		{ "source" : "node476" , "target" : "node175", "frequency" : 315, "dependency" : 0  },
+		{ "source" : "node7" , "target" : "node343", "frequency" : 316, "dependency" : 0  },
+		{ "source" : "node87" , "target" : "node287", "frequency" : 317, "dependency" : 0  },
+		{ "source" : "node288" , "target" : "node244", "frequency" : 318, "dependency" : 0  },
+		{ "source" : "node14" , "target" : "node201", "frequency" : 319, "dependency" : 0  },
+		{ "source" : "node95" , "target" : "node390", "frequency" : 320, "dependency" : 0  },
+		{ "source" : "node295" , "target" : "node304", "frequency" : 321, "dependency" : 0  },
+		{ "source" : "node349" , "target" : "node6", "frequency" : 322, "dependency" : 0  },
+		{ "source" : "node432" , "target" : "node147", "frequency" : 323, "dependency" : 0  },
+		{ "source" : "node470" , "target" : "node435", "frequency" : 324, "dependency" : 0  },
+		{ "source" : "node53" , "target" : "node21", "frequency" : 325, "dependency" : 0  },
+		{ "source" : "node186" , "target" : "node399", "frequency" : 326, "dependency" : 0  },
+		{ "source" : "node420" , "target" : "node140", "frequency" : 327, "dependency" : 0  },
+		{ "source" : "node425" , "target" : "node464", "frequency" : 328, "dependency" : 0  },
+		{ "source" : "node308" , "target" : "node81", "frequency" : 329, "dependency" : 0  },
+		{ "source" : "node330" , "target" : "node229", "frequency" : 330, "dependency" : 0  },
+		{ "source" : "node228" , "target" : "node314", "frequency" : 331, "dependency" : 0  },
+		{ "source" : "node299" , "target" : "node484", "frequency" : 332, "dependency" : 0  },
+		{ "source" : "node328" , "target" : "node175", "frequency" : 333, "dependency" : 0  },
+		{ "source" : "node25" , "target" : "node442", "frequency" : 334, "dependency" : 0  },
+		{ "source" : "node442" , "target" : "node219", "frequency" : 335, "dependency" : 0  },
+		{ "source" : "node305" , "target" : "node344", "frequency" : 336, "dependency" : 0  },
+		{ "source" : "node16" , "target" : "node88", "frequency" : 337, "dependency" : 0  },
+		{ "source" : "node364" , "target" : "node486", "frequency" : 338, "dependency" : 0  },
+		{ "source" : "node481" , "target" : "node320", "frequency" : 339, "dependency" : 0  },
+		{ "source" : "node253" , "target" : "node455", "frequency" : 340, "dependency" : 0  },
+		{ "source" : "node379" , "target" : "node369", "frequency" : 341, "dependency" : 0  },
+		{ "source" : "node95" , "target" : "node386", "frequency" : 342, "dependency" : 0  },
+		{ "source" : "node356" , "target" : "node92", "frequency" : 343, "dependency" : 0  },
+		{ "source" : "node287" , "target" : "node267", "frequency" : 344, "dependency" : 0  },
+		{ "source" : "node31" , "target" : "node4", "frequency" : 345, "dependency" : 0  },
+		{ "source" : "node348" , "target" : "node65", "frequency" : 346, "dependency" : 0  },
+		{ "source" : "node312" , "target" : "node464", "frequency" : 347, "dependency" : 0  },
+		{ "source" : "node109" , "target" : "node164", "frequency" : 348, "dependency" : 0  },
+		{ "source" : "node343" , "target" : "node271", "frequency" : 349, "dependency" : 0  },
+		{ "source" : "node316" , "target" : "node24", "frequency" : 350, "dependency" : 0  },
+		{ "source" : "node320" , "target" : "node473", "frequency" : 351, "dependency" : 0  },
+		{ "source" : "node403" , "target" : "node465", "frequency" : 352, "dependency" : 0  },
+		{ "source" : "node124" , "target" : "node455", "frequency" : 353, "dependency" : 0  },
+		{ "source" : "node408" , "target" : "node486", "frequency" : 354, "dependency" : 0  },
+		{ "source" : "node325" , "target" : "node446", "frequency" : 355, "dependency" : 0  },
+		{ "source" : "node269" , "target" : "node280", "frequency" : 356, "dependency" : 0  },
+		{ "source" : "node282" , "target" : "node129", "frequency" : 357, "dependency" : 0  },
+		{ "source" : "node424" , "target" : "node363", "frequency" : 358, "dependency" : 0  },
+		{ "source" : "node381" , "target" : "node487", "frequency" : 359, "dependency" : 0  },
+		{ "source" : "node236" , "target" : "node305", "frequency" : 360, "dependency" : 0  },
+		{ "source" : "node196" , "target" : "node194", "frequency" : 361, "dependency" : 0  },
+		{ "source" : "node324" , "target" : "node50", "frequency" : 362, "dependency" : 0  },
+		{ "source" : "node386" , "target" : "node23", "frequency" : 363, "dependency" : 0  },
+		{ "source" : "node221" , "target" : "node23", "frequency" : 364, "dependency" : 0  },
+		{ "source" : "node485" , "target" : "node488", "frequency" : 365, "dependency" : 0  },
+		{ "source" : "node33" , "target" : "node450", "frequency" : 366, "dependency" : 0  },
+		{ "source" : "node288" , "target" : "node463", "frequency" : 367, "dependency" : 0  },
+		{ "source" : "node475" , "target" : "node363", "frequency" : 368, "dependency" : 0  },
+		{ "source" : "node265" , "target" : "node164", "frequency" : 369, "dependency" : 0  },
+		{ "source" : "node328" , "target" : "node424", "frequency" : 370, "dependency" : 0  },
+		{ "source" : "node261" , "target" : "node156", "frequency" : 371, "dependency" : 0  },
+		{ "source" : "node360" , "target" : "node292", "frequency" : 372, "dependency" : 0  },
+		{ "source" : "node112" , "target" : "node48", "frequency" : 373, "dependency" : 0  },
+		{ "source" : "node331" , "target" : "node409", "frequency" : 374, "dependency" : 0  },
+		{ "source" : "node117" , "target" : "node313", "frequency" : 375, "dependency" : 0  },
+		{ "source" : "node242" , "target" : "node275", "frequency" : 376, "dependency" : 0  },
+		{ "source" : "node41" , "target" : "node185", "frequency" : 377, "dependency" : 0  },
+		{ "source" : "node50" , "target" : "node43", "frequency" : 378, "dependency" : 0  },
+		{ "source" : "node293" , "target" : "node345", "frequency" : 379, "dependency" : 0  },
+		{ "source" : "node282" , "target" : "node438", "frequency" : 380, "dependency" : 0  },
+		{ "source" : "node209" , "target" : "node454", "frequency" : 381, "dependency" : 0  },
+		{ "source" : "node421" , "target" : "node340", "frequency" : 382, "dependency" : 0  },
+		{ "source" : "node436" , "target" : "node376", "frequency" : 383, "dependency" : 0  },
+		{ "source" : "node373" , "target" : "node410", "frequency" : 384, "dependency" : 0  },
+		{ "source" : "node433" , "target" : "node316", "frequency" : 385, "dependency" : 0  },
+		{ "source" : "node102" , "target" : "node356", "frequency" : 386, "dependency" : 0  },
+		{ "source" : "node318" , "target" : "node216", "frequency" : 387, "dependency" : 0  },
+		{ "source" : "node22" , "target" : "node453", "frequency" : 388, "dependency" : 0  },
+		{ "source" : "node263" , "target" : "node108", "frequency" : 389, "dependency" : 0  },
+		{ "source" : "node368" , "target" : "node114", "frequency" : 390, "dependency" : 0  },
+		{ "source" : "node362" , "target" : "node170", "frequency" : 391, "dependency" : 0  },
+		{ "source" : "node414" , "target" : "node283", "frequency" : 392, "dependency" : 0  },
+		{ "source" : "node420" , "target" : "node455", "frequency" : 393, "dependency" : 0  },
+		{ "source" : "node119" , "target" : "node424", "frequency" : 394, "dependency" : 0  },
+		{ "source" : "node138" , "target" : "node357", "frequency" : 395, "dependency" : 0  },
+		{ "source" : "node388" , "target" : "node224", "frequency" : 396, "dependency" : 0  },
+		{ "source" : "node54" , "target" : "node308", "frequency" : 397, "dependency" : 0  },
+		{ "source" : "node289" , "target" : "node257", "frequency" : 398, "dependency" : 0  },
+		{ "source" : "node304" , "target" : "node228", "frequency" : 399, "dependency" : 0  },
+		{ "source" : "node364" , "target" : "node172", "frequency" : 400, "dependency" : 0  },
+		{ "source" : "node281" , "target" : "node369", "frequency" : 401, "dependency" : 0  },
+		{ "source" : "node427" , "target" : "node479", "frequency" : 402, "dependency" : 0  },
+		{ "source" : "node30" , "target" : "node484", "frequency" : 403, "dependency" : 0  },
+		{ "source" : "node206" , "target" : "node317", "frequency" : 404, "dependency" : 0  },
+		{ "source" : "node348" , "target" : "node59", "frequency" : 405, "dependency" : 0  },
+		{ "source" : "node244" , "target" : "node337", "frequency" : 406, "dependency" : 0  },
+		{ "source" : "node51" , "target" : "node499", "frequency" : 407, "dependency" : 0  },
+		{ "source" : "node295" , "target" : "node39", "frequency" : 408, "dependency" : 0  },
+		{ "source" : "node409" , "target" : "node104", "frequency" : 409, "dependency" : 0  },
+		{ "source" : "node54" , "target" : "node355", "frequency" : 410, "dependency" : 0  },
+		{ "source" : "node51" , "target" : "node382", "frequency" : 411, "dependency" : 0  },
+		{ "source" : "node420" , "target" : "node481", "frequency" : 412, "dependency" : 0  },
+		{ "source" : "node220" , "target" : "node26", "frequency" : 413, "dependency" : 0  },
+		{ "source" : "node96" , "target" : "node405", "frequency" : 414, "dependency" : 0  },
+		{ "source" : "node149" , "target" : "node455", "frequency" : 415, "dependency" : 0  },
+		{ "source" : "node11" , "target" : "node109", "frequency" : 416, "dependency" : 0  },
+		{ "source" : "node478" , "target" : "node98", "frequency" : 417, "dependency" : 0  },
+		{ "source" : "node177" , "target" : "node124", "frequency" : 418, "dependency" : 0  },
+		{ "source" : "node71" , "target" : "node129", "frequency" : 419, "dependency" : 0  },
+		{ "source" : "node70" , "target" : "node330", "frequency" : 420, "dependency" : 0  },
+		{ "source" : "node340" , "target" : "node262", "frequency" : 421, "dependency" : 0  },
+		{ "source" : "node76" , "target" : "node193", "frequency" : 422, "dependency" : 0  },
+		{ "source" : "node272" , "target" : "node120", "frequency" : 423, "dependency" : 0  },
+		{ "source" : "node17" , "target" : "node205", "frequency" : 424, "dependency" : 0  },
+		{ "source" : "node337" , "target" : "node94", "frequency" : 425, "dependency" : 0  },
+		{ "source" : "node158" , "target" : "node133", "frequency" : 426, "dependency" : 0  },
+		{ "source" : "node160" , "target" : "node267", "frequency" : 427, "dependency" : 0  },
+		{ "source" : "node16" , "target" : "node282", "frequency" : 428, "dependency" : 0  },
+		{ "source" : "node168" , "target" : "node37", "frequency" : 429, "dependency" : 0  },
+		{ "source" : "node410" , "target" : "node229", "frequency" : 430, "dependency" : 0  },
+		{ "source" : "node189" , "target" : "node28", "frequency" : 431, "dependency" : 0  },
+		{ "source" : "node209" , "target" : "node305", "frequency" : 432, "dependency" : 0  },
+		{ "source" : "node212" , "target" : "node337", "frequency" : 433, "dependency" : 0  },
+		{ "source" : "node386" , "target" : "node33", "frequency" : 434, "dependency" : 0  },
+		{ "source" : "node447" , "target" : "node87", "frequency" : 435, "dependency" : 0  },
+		{ "source" : "node469" , "target" : "node214", "frequency" : 436, "dependency" : 0  },
+		{ "source" : "node142" , "target" : "node428", "frequency" : 437, "dependency" : 0  },
+		{ "source" : "node150" , "target" : "node138", "frequency" : 438, "dependency" : 0  },
+		{ "source" : "node497" , "target" : "node262", "frequency" : 439, "dependency" : 0  },
+		{ "source" : "node467" , "target" : "node331", "frequency" : 440, "dependency" : 0  },
+		{ "source" : "node339" , "target" : "node463", "frequency" : 441, "dependency" : 0  },
+		{ "source" : "node271" , "target" : "node159", "frequency" : 442, "dependency" : 0  },
+		{ "source" : "node500" , "target" : "node220", "frequency" : 443, "dependency" : 0  },
+		{ "source" : "node366" , "target" : "node398", "frequency" : 444, "dependency" : 0  },
+		{ "source" : "node92" , "target" : "node209", "frequency" : 445, "dependency" : 0  },
+		{ "source" : "node51" , "target" : "node376", "frequency" : 446, "dependency" : 0  },
+		{ "source" : "node473" , "target" : "node473", "frequency" : 447, "dependency" : 0  },
+		{ "source" : "node183" , "target" : "node482", "frequency" : 448, "dependency" : 0  },
+		{ "source" : "node266" , "target" : "node79", "frequency" : 449, "dependency" : 0  },
+		{ "source" : "node199" , "target" : "node475", "frequency" : 450, "dependency" : 0  },
+		{ "source" : "node305" , "target" : "node299", "frequency" : 451, "dependency" : 0  },
+		{ "source" : "node314" , "target" : "node135", "frequency" : 452, "dependency" : 0  },
+		{ "source" : "node324" , "target" : "node229", "frequency" : 453, "dependency" : 0  },
+		{ "source" : "node192" , "target" : "node172", "frequency" : 454, "dependency" : 0  },
+		{ "source" : "node413" , "target" : "node286", "frequency" : 455, "dependency" : 0  },
+		{ "source" : "node124" , "target" : "node80", "frequency" : 456, "dependency" : 0  },
+		{ "source" : "node187" , "target" : "node344", "frequency" : 457, "dependency" : 0  },
+		{ "source" : "node100" , "target" : "node483", "frequency" : 458, "dependency" : 0  },
+		{ "source" : "node450" , "target" : "node184", "frequency" : 459, "dependency" : 0  },
+		{ "source" : "node404" , "target" : "node53", "frequency" : 460, "dependency" : 0  },
+		{ "source" : "node294" , "target" : "node460", "frequency" : 461, "dependency" : 0  },
+		{ "source" : "node483" , "target" : "node451", "frequency" : 462, "dependency" : 0  },
+		{ "source" : "node473" , "target" : "node148", "frequency" : 463, "dependency" : 0  },
+		{ "source" : "node480" , "target" : "node486", "frequency" : 464, "dependency" : 0  },
+		{ "source" : "node238" , "target" : "node315", "frequency" : 465, "dependency" : 0  },
+		{ "source" : "node452" , "target" : "node281", "frequency" : 466, "dependency" : 0  },
+		{ "source" : "node386" , "target" : "node75", "frequency" : 467, "dependency" : 0  },
+		{ "source" : "node381" , "target" : "node114", "frequency" : 468, "dependency" : 0  },
+		{ "source" : "node142" , "target" : "node261", "frequency" : 469, "dependency" : 0  },
+		{ "source" : "node41" , "target" : "node99", "frequency" : 470, "dependency" : 0  },
+		{ "source" : "node312" , "target" : "node401", "frequency" : 471, "dependency" : 0  },
+		{ "source" : "node326" , "target" : "node29", "frequency" : 472, "dependency" : 0  },
+		{ "source" : "node191" , "target" : "node346", "frequency" : 473, "dependency" : 0  },
+		{ "source" : "node163" , "target" : "node391", "frequency" : 474, "dependency" : 0  },
+		{ "source" : "node225" , "target" : "node216", "frequency" : 475, "dependency" : 0  },
+		{ "source" : "node5" , "target" : "node296", "frequency" : 476, "dependency" : 0  },
+		{ "source" : "node94" , "target" : "node373", "frequency" : 477, "dependency" : 0  },
+		{ "source" : "node87" , "target" : "node174", "frequency" : 478, "dependency" : 0  },
+		{ "source" : "node114" , "target" : "node171", "frequency" : 479, "dependency" : 0  },
+		{ "source" : "node35" , "target" : "node312", "frequency" : 480, "dependency" : 0  },
+		{ "source" : "node21" , "target" : "node210", "frequency" : 481, "dependency" : 0  },
+		{ "source" : "node390" , "target" : "node255", "frequency" : 482, "dependency" : 0  },
+		{ "source" : "node408" , "target" : "node448", "frequency" : 483, "dependency" : 0  },
+		{ "source" : "node93" , "target" : "node328", "frequency" : 484, "dependency" : 0  },
+		{ "source" : "node240" , "target" : "node230", "frequency" : 485, "dependency" : 0  },
+		{ "source" : "node236" , "target" : "node246", "frequency" : 486, "dependency" : 0  },
+		{ "source" : "node113" , "target" : "node323", "frequency" : 487, "dependency" : 0  },
+		{ "source" : "node296" , "target" : "node116", "frequency" : 488, "dependency" : 0  },
+		{ "source" : "node201" , "target" : "node499", "frequency" : 489, "dependency" : 0  },
+		{ "source" : "node485" , "target" : "node338", "frequency" : 490, "dependency" : 0  },
+		{ "source" : "node151" , "target" : "node431", "frequency" : 491, "dependency" : 0  },
+		{ "source" : "node410" , "target" : "node189", "frequency" : 492, "dependency" : 0  },
+		{ "source" : "node318" , "target" : "node68", "frequency" : 493, "dependency" : 0  },
+		{ "source" : "node71" , "target" : "node259", "frequency" : 494, "dependency" : 0  },
+		{ "source" : "node390" , "target" : "node12", "frequency" : 495, "dependency" : 0  },
+		{ "source" : "node245" , "target" : "node195", "frequency" : 496, "dependency" : 0  },
+		{ "source" : "node80" , "target" : "node364", "frequency" : 497, "dependency" : 0  },
+		{ "source" : "node50" , "target" : "node434", "frequency" : 498, "dependency" : 0  },
+		{ "source" : "node307" , "target" : "node36", "frequency" : 499, "dependency" : 0  },
+		{ "source" : "node222" , "target" : "node346", "frequency" : 0, "dependency" : 0  },
+
+ ] 
+}
