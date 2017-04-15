@@ -1,0 +1,111 @@
+{ 
+ "nodes" : [ 
+ 
+		{ "source" : "node1", "frequency" : 1}, 
+
+		{ "source" : "node2", "frequency" : 2}, 
+
+		{ "source" : "node3", "frequency" : 3}, 
+
+		{ "source" : "node4", "frequency" : 4}, 
+
+		{ "source" : "node5", "frequency" : 5}, 
+
+		{ "source" : "node6", "frequency" : 6}, 
+
+		{ "source" : "node7", "frequency" : 7}, 
+
+		{ "source" : "node8", "frequency" : 8}, 
+
+		{ "source" : "node9", "frequency" : 9}, 
+
+		{ "source" : "node10", "frequency" : 10}, 
+
+		{ "source" : "node11", "frequency" : 11}, 
+
+		{ "source" : "node12", "frequency" : 12}, 
+
+		{ "source" : "node13", "frequency" : 13}, 
+
+		{ "source" : "node14", "frequency" : 14}, 
+
+		{ "source" : "node15", "frequency" : 15}, 
+
+		{ "source" : "node16", "frequency" : 16}, 
+
+		{ "source" : "node17", "frequency" : 17}, 
+
+		{ "source" : "node18", "frequency" : 18}, 
+
+		{ "source" : "node19", "frequency" : 19}, 
+
+		{ "source" : "node20", "frequency" : 20}, 
+
+		{ "source" : "node21", "frequency" : 21}, 
+
+		{ "source" : "node22", "frequency" : 22}, 
+
+		{ "source" : "node23", "frequency" : 23}, 
+
+		{ "source" : "node24", "frequency" : 24}, 
+
+		{ "source" : "node25", "frequency" : 25}, 
+
+ 
+ ], 
+
+ "arcs" : [ 
+
+		{ "source" : "node14" , "target" : "node3", "frequency" : 1, "dependency" : 0  },
+		{ "source" : "node17" , "target" : "node22", "frequency" : 2, "dependency" : 0  },
+		{ "source" : "node21" , "target" : "node17", "frequency" : 3, "dependency" : 0  },
+		{ "source" : "node23" , "target" : "node1", "frequency" : 4, "dependency" : 0  },
+		{ "source" : "node6" , "target" : "node12", "frequency" : 5, "dependency" : 0  },
+		{ "source" : "node9" , "target" : "node4", "frequency" : 6, "dependency" : 0  },
+		{ "source" : "node14" , "target" : "node14", "frequency" : 7, "dependency" : 0  },
+		{ "source" : "node20" , "target" : "node4", "frequency" : 8, "dependency" : 0  },
+		{ "source" : "node14" , "target" : "node15", "frequency" : 9, "dependency" : 0  },
+		{ "source" : "node15" , "target" : "node9", "frequency" : 10, "dependency" : 0  },
+		{ "source" : "node17" , "target" : "node23", "frequency" : 11, "dependency" : 0  },
+		{ "source" : "node8" , "target" : "node9", "frequency" : 12, "dependency" : 0  },
+		{ "source" : "node9" , "target" : "node20", "frequency" : 13, "dependency" : 0  },
+		{ "source" : "node6" , "target" : "node13", "frequency" : 14, "dependency" : 0  },
+		{ "source" : "node8" , "target" : "node13", "frequency" : 15, "dependency" : 0  },
+		{ "source" : "node3" , "target" : "node24", "frequency" : 16, "dependency" : 0  },
+		{ "source" : "node18" , "target" : "node13", "frequency" : 17, "dependency" : 0  },
+		{ "source" : "node1" , "target" : "node24", "frequency" : 18, "dependency" : 0  },
+		{ "source" : "node18" , "target" : "node7", "frequency" : 19, "dependency" : 0  },
+		{ "source" : "node9" , "target" : "node16", "frequency" : 20, "dependency" : 0  },
+		{ "source" : "node1" , "target" : "node17", "frequency" : 21, "dependency" : 0  },
+		{ "source" : "node2" , "target" : "node2", "frequency" : 22, "dependency" : 0  },
+		{ "source" : "node6" , "target" : "node13", "frequency" : 23, "dependency" : 0  },
+		{ "source" : "node22" , "target" : "node14", "frequency" : 24, "dependency" : 0  },
+		{ "source" : "node11" , "target" : "node9", "frequency" : 0, "dependency" : 0  },
+		{ "source" : "node12" , "target" : "node22", "frequency" : 1, "dependency" : 0  },
+		{ "source" : "node16" , "target" : "node9", "frequency" : 2, "dependency" : 0  },
+		{ "source" : "node8" , "target" : "node25", "frequency" : 3, "dependency" : 0  },
+		{ "source" : "node2" , "target" : "node5", "frequency" : 4, "dependency" : 0  },
+		{ "source" : "node20" , "target" : "node20", "frequency" : 5, "dependency" : 0  },
+		{ "source" : "node16" , "target" : "node15", "frequency" : 6, "dependency" : 0  },
+		{ "source" : "node6" , "target" : "node7", "frequency" : 7, "dependency" : 0  },
+		{ "source" : "node9" , "target" : "node15", "frequency" : 8, "dependency" : 0  },
+		{ "source" : "node8" , "target" : "node2", "frequency" : 9, "dependency" : 0  },
+		{ "source" : "node6" , "target" : "node14", "frequency" : 10, "dependency" : 0  },
+		{ "source" : "node10" , "target" : "node2", "frequency" : 11, "dependency" : 0  },
+		{ "source" : "node4" , "target" : "node14", "frequency" : 12, "dependency" : 0  },
+		{ "source" : "node25" , "target" : "node24", "frequency" : 13, "dependency" : 0  },
+		{ "source" : "node13" , "target" : "node24", "frequency" : 14, "dependency" : 0  },
+		{ "source" : "node22" , "target" : "node2", "frequency" : 15, "dependency" : 0  },
+		{ "source" : "node12" , "target" : "node22", "frequency" : 16, "dependency" : 0  },
+		{ "source" : "node6" , "target" : "node13", "frequency" : 17, "dependency" : 0  },
+		{ "source" : "node1" , "target" : "node20", "frequency" : 18, "dependency" : 0  },
+		{ "source" : "node11" , "target" : "node19", "frequency" : 19, "dependency" : 0  },
+		{ "source" : "node23" , "target" : "node3", "frequency" : 20, "dependency" : 0  },
+		{ "source" : "node7" , "target" : "node14", "frequency" : 21, "dependency" : 0  },
+		{ "source" : "node11" , "target" : "node16", "frequency" : 22, "dependency" : 0  },
+		{ "source" : "node16" , "target" : "node11", "frequency" : 23, "dependency" : 0  },
+		{ "source" : "node18" , "target" : "node13", "frequency" : 24, "dependency" : 0  },
+		{ "source" : "node19" , "target" : "node2", "frequency" : 0, "dependency" : 0  },
+
+ ] 
+}
