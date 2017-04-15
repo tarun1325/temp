@@ -999,7 +999,7 @@
 
 		{ "source" : "node499", "frequency" : 499}, 
 
-		{ "source" : "node500", "frequency" : 500}, 
+		{ "source" : "node500", "frequency" : 500}
 
  
  ], 
@@ -3005,7 +3005,7 @@
 		{ "source" : "node489" , "target" : "node332", "frequency" : 497, "dependency" : 0  },
 		{ "source" : "node275" , "target" : "node210", "frequency" : 498, "dependency" : 0  },
 		{ "source" : "node393" , "target" : "node37", "frequency" : 499, "dependency" : 0  },
-		{ "source" : "node396" , "target" : "node94", "frequency" : 0, "dependency" : 0  },
+		{ "source" : "node396" , "target" : "node94", "frequency" : 0, "dependency" : 0  }
 
  ] 
 }
