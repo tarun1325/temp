@@ -11,7 +11,8 @@
 		{ "source" : "node4" , "target" : "node1", "frequency" : 2, "dependency" : 0  },
 		{ "source" : "node3" , "target" : "node1", "frequency" : 3, "dependency" : 0  },
 		{ "source" : "node2" , "target" : "node4", "frequency" : 4, "dependency" : 0  },
-		{ "source" : "node1" , "target" : "node5", "frequency" : 0, "dependency" : 0  }
+		{ "source" : "node1" , "target" : "node5", "frequency" : 0, "dependency" : 0  },
+	 	{ "source" : "node6" , "target" : "node5", "frequency" : 0, "dependency" : 0  }
 
  ] 
 }
